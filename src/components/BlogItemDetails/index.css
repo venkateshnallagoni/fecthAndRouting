@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.blog-item-details {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.author-avatar {
+  display: flex;
+  flex-direction: row;
+}
+.avatar-style {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.image-style {
+  height: 250px;
+  width: 750px;
+}

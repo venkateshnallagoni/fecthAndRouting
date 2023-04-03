@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.main-image {
+  height: 150px;
+  width: 250px;
+  margin: 10px;
+  border-radius: 6px;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+}
+.image-details {
+  display: flex;
+  flex-direction: column;
+}
+.name-avatar {
+  display: flex;
+}
+.avatar-img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
